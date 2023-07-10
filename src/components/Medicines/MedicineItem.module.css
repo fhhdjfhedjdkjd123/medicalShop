@@ -1,0 +1,25 @@
+.medicine {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    margin: 1rem;
+    /* margin-left:5rem; */
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #ccc;
+    width:100%;
+  }
+  
+  .medicine h3 {
+    margin: 0 0 0.25rem 0;
+  }
+  
+.description{
+    font-style: italic;
+}
+.price{
+    color: #ad4089;
+    font-weight: bold;
+    margin-top:0.25rem;
+    font-size: 1.25rem;
+
+}
